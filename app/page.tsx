@@ -64,17 +64,17 @@ const HomePage = () => {
     <div className="min-h-screen flex flex-col md:flex-row">
       {/* Section de gauche - Flux d'actualité */}
       <div className="w-full md:w-3/4 p-4 bg-gray-100">
-        <h2 className="text-2xl font-bold mb-4">Flux d'actualité</h2>
+        <h2 className="text-2xl font-bold mb-4">Flux d&apos;actualité</h2>
         {/* Placeholder pour les actualités */}
         <div className="space-y-4">
           <div className="bg-white p-4 rounded shadow">
-            <p>Contenu de l'actualité...</p>
+            <p>Contenu de l&apos;actualité...</p>
           </div>
           <div className="bg-white p-4 rounded shadow">
-            <p>Contenu de l'actualité...</p>
+            <p>Contenu de l&apos;actualité...</p>
           </div>
           <div className="bg-white p-4 rounded shadow">
-            <p>Contenu de l'actualité...</p>
+            <p>Contenu de l&apos;actualité...</p>
           </div>
         </div>
       </div>
