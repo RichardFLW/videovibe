@@ -23,7 +23,7 @@ const Custom404: React.FC = () => {
         href="/"
         className="px-4 py-2 bg-indigo-600 text-white text-sm font-medium rounded-md hover:bg-indigo-700"
       >
-        Retour à l'accueil
+        Retour à l&apos;accueil
       </Link>
     </div>
   );
